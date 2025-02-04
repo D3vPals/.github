@@ -1,4 +1,3 @@
-### 서비스 소개
 ![logo (1)](https://github.com/user-attachments/assets/d9401607-dc2f-46c4-bbf3-54c370e7ebd7)<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 # **DevPals**
