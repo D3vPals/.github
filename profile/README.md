@@ -118,7 +118,7 @@ $ npm run dev
 ![Zustand](https://img.shields.io/badge/zustand-%23181717.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![MSW](https://img.shields.io/badge/mockserviceworker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
 
 #### AWS
 
