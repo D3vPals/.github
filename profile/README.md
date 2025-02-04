@@ -21,14 +21,14 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 | [고홍비](https://github.com/HongbiKo)                                          | [임형준](https://github.com/hyeongjun6364)                                      | [신유지](https://github.com/YouD0313)                                           | [조승연](https://github.com/layout-SY)                                          |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/83524159?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/100831607?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/102004480?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/111514472?v=4" width="120" /> |
-| <p align="center">FE</p>                                                       | <p align="center">FE</p>                                                        | <p align="center">FE</p>                                                        | <p align="center">FE</p>                                                        |
+
 
 #### 백엔드
 
 | [김현희](https://github.com/Kim-Hyunhee)                                       | [김난영](https://github.com/Algoruu)                                            |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/96518301?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/126838925?v=4" width="120" /> |
-| <p align="center">BE</p>                                                       | <p align="center">BE</p>                                                        |
+
 
 <br>
 
@@ -118,6 +118,7 @@ $ npm run dev
 ![Zustand](https://img.shields.io/badge/zustand-%23181717.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![MSW](https://img.shields.io/badge/mockserviceworker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
 
 #### AWS
 
