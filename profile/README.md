@@ -102,7 +102,7 @@ $ npm run dev
 ### 💥 배포 구성도
 ![image](https://github.com/user-attachments/assets/c1e4d9d0-b2c4-45a9-9fa2-7c6fc6050e7e)
 
-![NestJS](htt![CI_CD_](https://github.com/user-attachments/assets/5125750b-ea35-47ab-a935-19b061da1ac9)
+![CI_CD_](https://github.com/user-attachments/assets/5125750b-ea35-47ab-a935-19b061da1ac9)
 <br>
 
 ### ⌨️ 기술 스택
