@@ -100,7 +100,7 @@ $ npm run dev
 <br>
 
 ### 💥 배포 구성도
-![image](https://github.com/user-attachments/assets/c1e4d9d0-b2c4-45a9-9fa2-7c6fc6050e7e)
+![image](https://github.com/user-attachments/assets/cad34865-1692-498a-a89c-d83456903a8e)
 
 ![CI_CD_](https://github.com/user-attachments/assets/5125750b-ea35-47ab-a935-19b061da1ac9)
 <br>
