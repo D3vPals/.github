@@ -109,7 +109,7 @@ $ npm run dev
 
 #### 백엔드
 
-![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![PM2](https://img.shields.io/badge/pm2-2B037A.svg?style=for-the-badge&logo=pm2&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### 프론트엔드
 
@@ -122,14 +122,8 @@ $ npm run dev
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
 ![ReactTestingLibrary](https://img.shields.io/badge/ReactTestingLibrary-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
-
-#### AWS
-
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
-
-#### CI/CD
-
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![PM2](https://img.shields.io/badge/pm2-2B037A.svg?style=for-the-badge&logo=pm2&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### 협업 도구
 
@@ -155,7 +149,7 @@ src/
 ├── mocks/               # Mock 데이터
 ├── pages/               # 페이지 컴포넌트
 ├── routes/              # 라우트 설정
-├── store/               # 상태 관련 파일
+├── store/               # 전역상태 관련 파일
 ├── styles/              # 스타일 관련 파일
 ├── components/          # UI 컴포넌트 (컴포넌트별 스타일 파일과 함께 정리)
 └── utils/               # 유틸리티 함수 및 모듈
