@@ -44,12 +44,6 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 
 <br>
 
-### 🗒 프로젝트 자료
-
-#### [Devpals Note](https://www.notion.so/hongbiko/DevPals-16c20168cf19808896e5e04a404e8eb8?pvs=4)
-
-<br>
-
 ### 💡 시작 가이드
 
 <details>
