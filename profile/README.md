@@ -167,7 +167,7 @@ src/
 
  | 메인 페이지 |
 | -- |
-| ![devpals s3-website ap-northeast-2 amazonaws com_manage_pass-nonpass_2](https://github.com/user-attachments/assets/38cc16db-d422-4a65-9e15-ce6f33f1cfdf)
+| <img src="https://github.com/user-attachments/assets/38cc16db-d422-4a65-9e15-ce6f33f1cfdf" width="500"/>
 
 
  | 프로젝트 상세페이지 | 지원하기 페이지 | 모집공고 작성 페이지
