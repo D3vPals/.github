@@ -13,7 +13,9 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 새싹 멤버로 시작해 프로젝트 경험을 쌓고, 점차 성장하며 나무 멤버가 되기까지, Devpals가 당신의 개발 여정을 함께합니다!
 <br>
 
-## [Devpals바로가기](http://devpals.s3-website.ap-northeast-2.amazonaws.com/)
+<h1>[Devpals바로가기](http://devpals.s3-website.ap-northeast-2.amazonaws.com/)
+<</h1> 
+
 <br>
 
 ### 🙋🙋‍♂️ 함께 만드는 사람들
