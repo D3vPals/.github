@@ -13,6 +13,7 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 
 ### [Devpals바로가기](http://devpals.s3-website.ap-northeast-2.amazonaws.com/)
 <img src='https://github.com/user-attachments/assets/2698d74e-24fb-4f16-8d44-6a7cd9ec5e31' width='600'/>
+
 ![Group 5](https://github.com/user-attachments/assets/d66f8f2c-2d40-46c8-8bb3-dbd100ba884b)
 
 
