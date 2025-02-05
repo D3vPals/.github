@@ -166,7 +166,7 @@ src/
 
 
  | 메인 페이지 | 프로젝트 상세페이지 
-| -- | -- |
+| --- | --- |
 | <img src="https://github.com/user-attachments/assets/38cc16db-d422-4a65-9e15-ce6f33f1cfdf" width="400"/> |<img src="https://github.com/user-attachments/assets/a123fcc8-82a7-4f0b-96ff-74bb997ea3ef" width="300" />  | <img src="https://github.com/user-attachments/assets/c66b1b12-60df-45c8-ba90-3ae2855e49d1" width="400" />
 
 
