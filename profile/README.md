@@ -1,4 +1,4 @@
-![logo (1)](https://github.com/user-attachments/assets/d9401607-dc2f-46c4-bbf3-54c370e7ebd7)<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+![image](https://github.com/user-attachments/assets/3ca6dd41-03f1-4e77-a77e-d100a01012f2)![logo (1)](https://github.com/user-attachments/assets/d9401607-dc2f-46c4-bbf3-54c370e7ebd7)<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 # **DevPals**
 
@@ -14,6 +14,10 @@ Devpals는 주니어 개발자가 부담 없이 프로젝트에 참여하고, �
 <br>
 
 ### [Devpals바로가기](http://devpals.s3-website.ap-northeast-2.amazonaws.com/)
+![image](https://github.com/user-attachments/assets/fe581361-fe34-482a-8c34-6420d9e69da4)
+![image](https://github.com/user-attachments/assets/237e905f-45e6-4ec0-b885-4568769a370e)
+![image](https://github.com/user-attachments/assets/d0655dd0-fd20-47d7-9bed-ba424fbd87fb)
+![image](https://github.com/user-attachments/assets/4bf43cf6-1a73-4417-b0d4-5e82752f746a)
 
 <br>
 
