@@ -167,7 +167,8 @@ src/
 
  | 메인 페이지 |
 | -- |
-| <img src="https://private-user-images.githubusercontent.com/83524159/409439785-9fe8aa68-eb94-4c2e-9972-c3c0c123b375.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg2NTM4NTQsIm5iZiI6MTczODY1MzU1NCwicGF0aCI6Ii84MzUyNDE1OS80MDk0Mzk3ODUtOWZlOGFhNjgtZWI5NC00YzJlLTk5NzItYzNjMGMxMjNiMzc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA0VDA3MTkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1ZDI4YTUyNzY3YjQ3M2IwYzhjMmFjYTE0MTM5Y2ZhNDU5ZThmZGFjZDMxMjQyYjA0YzBmNzk4ZjA3NzZlY2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.W-U0Xw6F6o0u0esb7NUL9S6qnF7lpvj83DvCvJZ6fGw" width="300"/>
+| ![devpals s3-website ap-northeast-2 amazonaws com_manage_pass-nonpass_2](https://github.com/user-attachments/assets/38cc16db-d422-4a65-9e15-ce6f33f1cfdf)
+
 
  | 프로젝트 상세페이지 | 지원하기 페이지 | 모집공고 작성 페이지
 | -- | -- | -- |
