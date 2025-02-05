@@ -167,13 +167,13 @@ src/
 
 | 메인 페이지 | 프로젝트 상세페이지 |
 | --- | --- |
-| <img src="https://github.com/user-attachments/assets/38cc16db-d422-4a65-9e15-ce6f33f1cfdf" width="400" /> | <img src="https://github.com/user-attachments/assets/a123fcc8-82a7-4f0b-96ff-74bb997ea3ef" width="400" /> |
+| <img src="https://github.com/user-attachments/assets/38cc16db-d422-4a65-9e15-ce6f33f1cfdf" width="450" /> | <img src="https://github.com/user-attachments/assets/a123fcc8-82a7-4f0b-96ff-74bb997ea3ef" width="450" /> |
 
 
 
- | 프로젝트 상세페이지 | 지원하기 페이지 | 모집공고 작성 페이지
-| -- | -- | -- |
-| <img src="https://github.com/user-attachments/assets/a123fcc8-82a7-4f0b-96ff-74bb997ea3ef" width="300" />  | <img src="https://github.com/user-attachments/assets/c66b1b12-60df-45c8-ba90-3ae2855e49d1" width="300" />  | <img src="https://github.com/user-attachments/assets/f9d52160-a241-4ef6-8048-98c0acb26d92" width="300" />
+| 지원하기 페이지 | 모집공고 작성 페이지
+| -- | -- |
+| <img src="https://github.com/user-attachments/assets/c66b1b12-60df-45c8-ba90-3ae2855e49d1" width="450" />  | <img src="https://github.com/user-attachments/assets/f9d52160-a241-4ef6-8048-98c0acb26d92" width="450" /> |
 
  | 로그인 페이지 | 회원가입 페이지 | 비밀번호 재설정 페이지 |
 | -- | -- | -- |
